@@ -34,6 +34,7 @@ function sorteadorNumeroIntervalo(de, ate) {
 }
 
 function reiniciar() {
+    //Botão reiniciar irá zerar os campos de entrada de dados assim como atualizar o paragráfo de Números sorteados
     alterarStatusBotaoReiniciar();
     document.getElementById('quantidade').value = ''
     document.getElementById('de').value = '';
