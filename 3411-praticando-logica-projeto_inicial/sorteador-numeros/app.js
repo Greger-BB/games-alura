@@ -54,3 +54,5 @@ function alterarStatusBotaoReiniciar() {
         reiniciar.classList.add('container__botao-desabilitado');
     }
 }
+
+//Eu amo o BB
